@@ -1,0 +1,15 @@
+id,Name,Lon_Dec,Lat_Dec,Z_meters,Institution,City,Tipo_Dato
+0,Santa Rosa de Calamuchita,-64.6478,-32.0327,680,Aprhi,Río Santa Rosa,Datos_Meteorologicos
+1,Yacanto Norte,-64.8116,-32.0202,1182,Aprhi,Yacanto Norte,Datos_Meteorologicos
+2,Capilla del Carmen,-64.8153,-32.2042,1291,Aprhi,Capilla del Carmen,Datos_Meteorologicos
+3,Villa Amancay,-64.5626,-32.2024,611,MAGYA,Villa Amancay,Datos_Meteorologicos
+4,Villa del Dique,-64.453,-32.1706,554,MAGYA,Villa del Dique,Datos_Meteorologicos
+5,Canada del Sauce,-64.6477,-32.3887,713,Aprhi,Canada del Sauce,Datos_Meteorologicos
+6,Rodeo de los Caballos,-64.7911,-32.4825,1461,MAGYA,Rodeo de los Caballos,Datos_Meteorologicos
+7,Huerta Vieja,-64.7322,-32.509,1089,Aprhi,Huerta Vieja,Datos_Meteorologicos
+8,Rio Los Sauces,-64.6024,-32.5518,777,Aprhi,Rio Los Sauces,Datos_Meteorologicos
+9,Rio de la Cruz - Puente RP E61,-64.481141,-32.298869,548,Aprhi,La Cruz,Datos_Caudales
+10,Rio Quillinzo,-64.527225,-32.276497,538,Aprhi,Quillinzo,Datos_Caudales
+11,Rio Santa Rosa - Puente de Hierro,-64.549062,-32.0584025,604,Aprhi,Santa Rosa de Calamuchita,Datos_Caudales
+12,La Florida,-64.783,-32.233,1090,BDHI,La Florida,Datos_Meteorologicos
+13,Embalse Rio Tercero,-64.41666667,-32.18333333,623,Aprhi,Embalse,Datos_Caudales
